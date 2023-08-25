@@ -1,0 +1,9 @@
+{
+    "compilerOption":{
+        "module":"commonjs",
+        "strict":true
+    },
+    "files":[
+        "./index.ts"
+    ]
+}

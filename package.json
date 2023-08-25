@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start":"npm run build && node index.js"
+  },
+  "author": "Rahul Raut",
+  "license": "ISC"
+}
