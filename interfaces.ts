@@ -17,7 +17,7 @@ interface Car {
 function printCarDetails(carObj: Car) {
     console.log(`My car is ${carObj.make}`);
     console.log(`My car was launched in ${carObj.model}`);
-    carObj.accelerate()
+    
 }
 
 printCarDetails({
